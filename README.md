@@ -1,2 +1,2 @@
 # codsoft1
-Calculator using HTML and CSS
+Calculator using HTML, CSS and JS
